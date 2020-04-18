@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Shawshank Redemption",
+    "director": "Frank Darabont",
+    "genre": "Crime,Drama",
+    "country": "USA",
+    "year" : "1994",	
+    "review": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://i.pinimg.com/564x/28/68/90/286890b1eef7ee421f4efadc6faa2fd2.jpg"
+  },
+  {
+    "name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1972",	
+    "review": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://i.pinimg.com/564x/71/59/a0/7159a09b8fda11639094b27ab40a207c.jpg"
+  },
+{
+    "name": "The Godfather: Part II",
+    "director": "Francis Ford Coppola",
+    "genre": "Crime, Drama",
+    "country": "USA",
+    "year" : "1974",	
+    "review": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "poster": "https://i.pinimg.com/564x/7e/2f/ba/7e2fba01d5f2fb24ccee708992a4faf0.jpg"
+  }
+]
